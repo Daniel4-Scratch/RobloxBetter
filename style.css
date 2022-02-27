@@ -170,3 +170,21 @@
 }
 
 /*end username hide*/
+
+
+/* style.css | moz-extension://b73a48e7-e682-45c5-9f53-0ec8e5927caf/style.css */
+
+.chat-main {
+  /* box-shadow: 0 1px 3px hsla(0,0%,58.8%,.74); */
+  /* box-shadow: 0 1px 3px hsla(0, 0%, 58.8%, 0.16); */
+  /* box-shadow: 0 1px 3px hsla(0, 0%, 58.8%, 0.15); */
+  /* box-shadow: 0 1px 3px hsla(0, 0%, 58.8%, 0.09); */
+  /* box-shadow: 0 1px 3px hsla(0, 0%, 58.8%, 0); */
+  /* box-shadow: 0 1px 3px hsla(0, 12.8%, 54.1%, 0); */
+  /* box-shadow: 0 1px 3px hsla(0, 13.4%, 54.7%, 0); */
+  /* box-shadow: 0 1px 3px hsla(0, 30.2%, 74.7%, 0); */
+  /* box-shadow: 0 1px 3px hsla(0, 100%, 92.9%, 0); */
+  /* box-shadow: 0 1px 3px hsla(0, 100%, 96.9%, 0); */
+  box-shadow: 0 1px 3px hsla(0, 0%, 100%, 0);
+}
+
