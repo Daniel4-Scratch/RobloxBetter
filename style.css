@@ -188,3 +188,107 @@
   box-shadow: 0 1px 3px hsla(0, 0%, 100%, 0);
 }
 
+
+/* Inline #19 | https://web.roblox.com/discover#/ */
+
+.border-bottom.chat-search {
+  /* width: 5; */
+  /* width: 50; */
+  /* width: 50p; */
+  /* width: 50px; */
+  /* width: 80px; */
+  /* width: 180px; */
+  /* width: 10px; */
+  /* width: 0px; */
+  /* width: 250px; */
+  /* width: 230px; */
+  /* width: 20px; */
+  width: 240px;
+}
+
+/* Element | https://web.roblox.com/discover#/ */
+
+.discord {
+  /* width: 5; */
+  /* width: 50; */
+  /* width: 50p; */
+  /* width: 50px; */
+  /* width: 0px; */
+  /* width: 30px; */
+  /* width: 35px; */
+  /* width: 38px; */
+  /* width: 3px; */
+  /* height: 5; */
+  /* height: 50; */
+  /* height: 50p; */
+  /* height: 50px; */
+  /* height: 0px; */
+  /* height: 30px; */
+  /* height: 32px; */
+  /* height: 3px; */
+  /* position: revert-layer; */
+  /* position: r; */
+  /* margin-top: -2; */
+  /* margin-top: -; */
+  /* margin-top: -1; */
+  /* margin-top: -1e; */
+  /* margin-top: -3em; */
+  /* margin-top: -2em; */
+  /* margin-top: -em; */
+  /* margin-top: -1em; */
+  /* margin-top: -1.em; */
+  /* margin-top: -1.9em; */
+  /* margin-left: 10px; */
+  /* margin-left: 10p; */
+  /* margin-left: 10; */
+  /* margin-left: 1; */
+  /* margin-left: 5; */
+  /* margin-left: 5e; */
+  /* margin-left: 5em; */
+  /* margin-left: em; */
+  /* margin-left: 10em; */
+  /* margin-left: 1em; */
+  width: 39px;
+  background: #5865F2;
+  height: 31px;
+  position: absolute;
+  margin-top: -1.95em;
+  margin-left: 15em;
+}
+
+/* Element | https://web.roblox.com/discover#/ */
+
+.discord {
+  /* padding: 10px; */
+  /* padding: 10p; */
+  /* padding: 10; */
+  /* padding: 1; */
+  /* padding: 5; */
+  /* padding: 5p; */
+  /* padding: 5px; */
+  /* padding: 5px inherit; */
+  /* padding: 5px 5; */
+  /* padding: 5px 5p; */
+  /* padding: 5px 5px inherit; */
+  /* padding: 5px 5px; */
+  /* padding: 5px 5px 0; */
+  /* padding: 5px 5px 0p; */
+  /* padding: 5px 5px 0px; */
+  /* padding: 5px 5px 0px inherit; */
+  /* padding: 5px 5px 0px 0; */
+  /* padding: 5px 5px 0px 0p; */
+  /* padding: 10px 5px 0px 0px; */
+  /* padding: 1px 5px 0px 0px; */
+  /* padding: px 5px 0px 0px; */
+  /* padding: 5px 5px 0px 0px; */
+  /* padding: 5px px 0px 0px; */
+  /* padding: 5px 1px 0px 0px; */
+  /* padding: 5px 10px 0px 0px; */
+  /* padding: 5px 10px px 0px; */
+  /* padding: 5px 10px 5px 0px; */
+  /* padding: 5px 10px 5px 5px; */
+  /* padding: 5px 10px 5px px; */
+  /* padding: 5px 10px 5px 1px; */
+  padding: 5px 10px 5px 10px;
+  cursor: pointer;
+}
