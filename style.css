@@ -130,3 +130,43 @@
 }
 
 /*End roblox nav bar*/
+
+/*user name hide*/
+
+/* bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css | https://css.rbxcdn.com/bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css */
+
+@media (max-width: 1400px) {
+  .rbx-header .rbx-navbar-icon-group .age-bracket-label .age-bracket-label-username {
+    display: none;
+  }
+}
+
+.rbx-header .rbx-navbar-icon-group .age-bracket-label .dynamic-overflow-container .avatar-headshot-xs {
+  /* margin-right: 6px; */
+  /* margin-right: px; */
+  width: 28px;
+  margin-right: 0px;
+}
+
+/* ca0b62002afac0388a7e061d9b58a604f3e234a7155a93f5cfd26110b2b6203c.css | https://css.rbxcdn.com/ca0b62002afac0388a7e061d9b58a604f3e234a7155a93f5cfd26110b2b6203c.css */
+
+.gotham-font .font-footer, .gotham-font .font-footer:active, .gotham-font .font-footer:focus, .gotham-font .font-footer:hover, .gotham-font .font-footer:link, .gotham-font .font-footer:visited, .gotham-font .text-footer, .gotham-font .text-footer:active, .gotham-font .text-footer:focus, .gotham-font .text-footer:hover, .gotham-font .text-footer:link, .gotham-font .text-footer:visited, .gotham-font .xsmall, .gotham-font .xsmall:active, .gotham-font .xsmall:focus, .gotham-font .xsmall:hover, .gotham-font .xsmall:link, .gotham-font .xsmall:visited, .gotham-font .xxsmall, .gotham-font .xxsmall:active, .gotham-font .xxsmall:focus, .gotham-font .xxsmall:hover, .gotham-font .xxsmall:link, .gotham-font .xxsmall:visited {
+  /* display: none; */
+}
+
+/* Inline #23 | https://web.roblox.com/home */
+
+.xsmall.age-bracket-label-age.text-secondary {
+}
+
+.xsmall.age-bracket-label-age.text-secondary {
+  display: none;
+}
+
+.text-link.dynamic-overflow-container {
+  /* padding: 0; */
+  /* padding: 0p; */
+  padding: 0px;
+}
+
+/*end username hide*/
