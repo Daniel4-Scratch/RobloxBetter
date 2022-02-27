@@ -5,17 +5,17 @@
   "version": "0.1",
   "content_scripts": [
     {
-      "matches": ["https://example.com/*"],
+      "matches": ["https://web.roblox.com/*"],
       "js": ["script.js"],
       "css": ["style.css"]
     }
   ],
   "web_accessible_resources": ["script.js", "style.css"],
   "browser_action": {
-    "default_title": "Extension",
-    "default_icon": "icon.png",
+    "default_title": "RobloxBetter",
+    "default_icon": "rblxicon.png",
     "default_popup": "popup.html"
   },
   "manifest_version": 2,
-  "short_name": "Ext"
+  "short_name": "RblxBttr"
 }
