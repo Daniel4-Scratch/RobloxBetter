@@ -62,3 +62,71 @@
 }
 
 /*end roblox chat*/
+
+/*Roblox Navbar*/
+
+
+
+/* bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css | https://css.rbxcdn.com/bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css */
+
+.rbx-left-col li .text-nav .font-header-2 {
+  /* display: inline-block; */
+  display: none;
+}
+
+.dark-theme .rbx-upgrade-now .btn-secondary-md:focus, .dark-theme .rbx-upgrade-now .btn-secondary-md:hover {
+  display: none;
+}
+
+.rbx-left-col .rbx-scrollbar .rbx-upgrade-now {
+  display: none;
+}
+
+.rbx-left-col.nav-show .rbx-scrollbar li {
+  /* display: none; */
+}
+
+/* ca0b62002afac0388a7e061d9b58a604f3e234a7155a93f5cfd26110b2b6203c.css | https://css.rbxcdn.com/ca0b62002afac0388a7e061d9b58a604f3e234a7155a93f5cfd26110b2b6203c.css */
+
+.gotham-font .font-bold, .gotham-font .font-bold:active, .gotham-font .font-bold:hover, .gotham-font .font-bold:link, .gotham-font .font-bold:visited, .gotham-font .font-header-2, .gotham-font .font-header-2:active, .gotham-font .font-header-2:hover, .gotham-font .font-header-2:link, .gotham-font .font-header-2:visited, .gotham-font .h5, .gotham-font .h5:active, .gotham-font .h5:hover, .gotham-font .h5:link, .gotham-font .h5:visited, .gotham-font .h6, .gotham-font .h6:active, .gotham-font .h6:hover, .gotham-font .h6:link, .gotham-font .h6:visited, .gotham-font .text-footer-nav, .gotham-font .text-footer-nav:active, .gotham-font .text-footer-nav:hover, .gotham-font .text-footer-nav:link, .gotham-font .text-footer-nav:visited, .gotham-font .text-label, .gotham-font .text-label:active, .gotham-font .text-label:hover, .gotham-font .text-label:link, .gotham-font .text-label:visited, .gotham-font .text-lead, .gotham-font .text-lead:active, .gotham-font .text-lead:hover, .gotham-font .text-lead:link, .gotham-font .text-lead:visited, .gotham-font .text-name, .gotham-font .text-name:active, .gotham-font .text-name:hover, .gotham-font .text-name:link, .gotham-font .text-name:visited, .gotham-font .text-subject, .gotham-font .text-subject:active, .gotham-font .text-subject:hover, .gotham-font .text-subject:link, .gotham-font .text-subject:visited, .gotham-font .text-warning, .gotham-font .text-warning:active, .gotham-font .text-warning:hover, .gotham-font .text-warning:link, .gotham-font .text-warning:visited, .gotham-font h5, .gotham-font h5:active, .gotham-font h5:hover, .gotham-font h5:link, .gotham-font h5:visited, .gotham-font h6, .gotham-font h6:active, .gotham-font h6:hover, .gotham-font h6:link, .gotham-font h6:visited, .gotham-font strong, .gotham-font strong:active, .gotham-font strong:hover, .gotham-font strong:link, .gotham-font strong:visited {
+  /* display: none; */
+}
+
+
+.dark-theme .text-nav, .dark-theme .text-nav:hover {
+  /* display: none; */
+}
+
+/* Inline #25 | https://web.roblox.com/users/168326256/profile */
+
+.rbx-nav-sponsor {
+  display: none;
+}
+
+
+/* Inline #26 | https://web.roblox.com/users/168326256/profile */
+
+.font-bold.small.text-nav {
+  display: none;
+}
+
+.rbx-divider {
+  display: none;
+}
+
+/* bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css | https://css.rbxcdn.com/bbfa8678c5dc8467d00c4a99038f3b73d7e45b31d571be1c9eb16ca5a3708ac6.css */
+
+.rbx-left-col.nav-show {
+  /* width: 175px; */
+  /* width: 17px; */
+  /* width: 1px; */
+  /* width: 50px; */
+  /* width: 5px; */
+  /* width: px; */
+  /* width: 45px; */
+  /* width: 47px; */
+  /* width: 4px; */
+  width: 48px;
+}
+
+/*End roblox nav bar*/
