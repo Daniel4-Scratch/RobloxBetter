@@ -1,1 +1,64 @@
+/*Roblox Chat*/
 
+/* 9ff00644c2caa1890ea1e1bc39ba8258c850ed19ba4fece90c16c38c73569bed.css | https://css.rbxcdn.com/9ff00644c2caa1890ea1e1bc39ba8258c850ed19ba4fece90c16c38c73569bed.css */
+
+.dark-theme .chat-container .chat-main .chat-header {
+  /* border-radius: 8; */
+  /* border-radius: 8p; */
+  /* border-radius: 8px; */
+  /* border-radius: 8px inherit; */
+  /* border-radius: 8px 8; */
+  /* border-radius: 8px 8p; */
+  /* border-radius: 8px 8px; */
+  /* border-radius: 8px 8px inherit; */
+  /* border-radius: 8px 8px 0; */
+  /* border-radius: 8px 8px 0p; */
+  /* border-radius: 8px 8px 0px; */
+  /* border-radius: 8px 8px 0px inherit; */
+  /* border-radius: 8px 8px 0px 0; */
+  /* border-radius: 8px 8px 0px 0p; */
+  border-radius: 8px 8px 0px 0px;
+}
+
+.chat-main {
+  /* border-top-right-radius: 4px; */
+  /* border-top-right-radius: px; */
+  /* border-top-left-radius: 4px; */
+  /* border-top-left-radius: px; */
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+  box-shadow: 0 1px 3px hsla(0,0%,58.8%,.74);
+}
+
+.dark-theme .chat-search {
+  /* border-radius: 8px; */
+  /* border-radius: px; */
+  border-radius: 0px;
+}
+
+.dark-theme .dialogs .dialog-container .dialog-header {
+  border-radius: 8px 8px 0px 0px;
+}
+
+.dialog-container {
+  /* border-top-right-radius: 4px; */
+  /* border-top-right-radius: px; */
+  /* border-top-left-radius: 4px; */
+  /* border-top-left-radius: px; */
+  border-top-right-radius: 8px;
+  border-top-left-radius: 8px;
+}
+
+.dark-theme .dialog-container .dialog-input-container {
+  /* border-radius: 8px; */
+  /* border-radius: px; */
+  /* border-radius: 0px; */
+  /* border-radius: ; */
+  /* border-radius: 8px 8px 0px 0px; */
+  /* border-radius: px 8px 0px 0px; */
+  /* border-radius: 4px 8px 0px 0px; */
+  /* border-radius: 4px px 0px 0px; */
+  border-radius: 4px 4px 0px 0px;
+}
+
+/*end roblox chat*/
