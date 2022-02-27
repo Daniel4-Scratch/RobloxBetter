@@ -1,7 +1,7 @@
 
 {
-  "name": "Extension",
-  "description": "a template for an extension",
+  "name": "Roblox Better",
+  "description": "makes the roblox website better",
   "version": "0.1",
   "content_scripts": [
     {
