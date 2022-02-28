@@ -2,7 +2,7 @@
 
 /* 9ff00644c2caa1890ea1e1bc39ba8258c850ed19ba4fece90c16c38c73569bed.css | https://css.rbxcdn.com/9ff00644c2caa1890ea1e1bc39ba8258c850ed19ba4fece90c16c38c73569bed.css */
 
-.dark-theme .chat-container .chat-main .chat-header {
+ .chat-container .chat-main .chat-header {
   /* border-radius: 8; */
   /* border-radius: 8p; */
   /* border-radius: 8px; */
@@ -30,13 +30,13 @@
   box-shadow: 0 1px 3px hsla(0,0%,58.8%,.74);
 }
 
-.dark-theme .chat-search {
+ .chat-search {
   /* border-radius: 8px; */
   /* border-radius: px; */
   border-radius: 0px;
 }
 
-.dark-theme .dialogs .dialog-container .dialog-header {
+ .dialogs .dialog-container .dialog-header {
   border-radius: 8px 8px 0px 0px;
 }
 
@@ -49,7 +49,7 @@
   border-top-left-radius: 8px;
 }
 
-.dark-theme .dialog-container .dialog-input-container {
+ .dialog-container .dialog-input-container {
   /* border-radius: 8px; */
   /* border-radius: px; */
   /* border-radius: 0px; */
@@ -74,7 +74,7 @@
   display: none;
 }
 
-.dark-theme .rbx-upgrade-now .btn-secondary-md:focus, .dark-theme .rbx-upgrade-now .btn-secondary-md:hover {
+ .rbx-upgrade-now .btn-secondary-md:focus, .rbx-upgrade-now .btn-secondary-md:hover {
   display: none;
 }
 
@@ -93,7 +93,7 @@
 }
 
 
-.dark-theme .text-nav, .dark-theme .text-nav:hover {
+.text-nav, .text-nav:hover {
   /* display: none; */
 }
 
