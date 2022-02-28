@@ -317,3 +317,12 @@
 
 
 /*pfp end*/
+
+/*cursor*/
+body {
+   cursor: url('http://www.rw-designer.com/cursor-extern.php?id=171265'), auto;
+}
+a, .rbx-left-col li, .rbx-left-col ul, .rbx-left-col a,  .grid-item-container, .game-card-container, .navbar-icon-item, .chat-header-label {
+  cursor: url('http://www.rw-designer.com/cursor-extern.php?id=171264'), auto;
+
+}
