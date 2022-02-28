@@ -9,8 +9,8 @@
 <img src="assets/pfpfref.png" width="190" align="right">
 
 - Compact Nav Bar
-- Tweaked Chat UI (Not a big change)
-- Dark pfp back ground!
+- Tweaked Chat UI
+- Dark pfp back ground! (Enabled with dark mode)
 - Heaps more to come!
 
 ## [Install](https://github.com/Daniel4-Scratch/RobloxBetter/releases)
