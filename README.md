@@ -1,4 +1,6 @@
-# RobloxBetter
+<img src="rblxicon-plus.png" width="100" align="right">
+
+<h1>Roblox Better</h1>
 
 ## Features
 - Compact Nav Bar
