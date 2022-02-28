@@ -292,3 +292,29 @@
   padding: 5px 10px 5px 10px;
   cursor: pointer;
 }
+ /*pfp's background*/
+
+
+/* ca0b62002afac0388a7e061d9b58a604f3e234a7155a93f5cfd26110b2b6203c.css | https://css.rbxcdn.com/ca0b62002afac0388a7e061d9b58a604f3e234a7155a93f5cfd26110b2b6203c.css */
+
+.dark-theme .avatar-container .avatar-card-image, .dark-theme .avatar-container img {
+  /* background-color: #d4d4d4; */
+  /* background: linear-gradient(180deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(18deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(0deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(40deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(4deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(20deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(2deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  /* background: linear-gradient(1deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%); */
+  background: linear-gradient(10deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%);
+}
+
+.dark-theme .avatar .avatar-card-image {
+  /* background-color: #d4d4d4; */
+  background: linear-gradient(0deg, rgba(24,25,27,1) 0%, rgba(69,73,77,1) 100%);
+}
+
+
+/*pfp end*/
