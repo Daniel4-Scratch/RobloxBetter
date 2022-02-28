@@ -3,6 +3,9 @@
 <h1>Roblox Better</h1>
 
 ## Features
+
+<img src="navbar.png" width="70" align="right">
+
 - Compact Nav Bar
 - Tweaked Chat UI
 - More to come!
