@@ -5,9 +5,10 @@
 ## Features
 
 <img src="navbar.png" width="70" align="right">
+<img src="assets/roblox chat.png" width="190" align="right">
 
 - Compact Nav Bar
-- Tweaked Chat UI
+- Tweaked Chat UI (Not a big change)
 - More to come!
 
 ## [Install](https://github.com/Daniel4-Scratch/RobloxBetter/releases)
